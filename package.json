@@ -1,0 +1,27 @@
+{
+  "name": "restAPI",
+  "version": "1.0.0",
+  "description": "Build A Restful Api With Node.js Express &amp; MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhaktaranjan/restAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhaktaranjan/restAPI/issues"
+  },
+  "homepage": "https://github.com/Bhaktaranjan/restAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.4",
+    "nodemon": "^2.0.2"
+  }
+}
